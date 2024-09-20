@@ -7,14 +7,9 @@
     },
     "categories": [
         {
-            "id": 0,
-            "name": "tree-trunks",
-            "supercategory": "none"
-        },
-        {
             "id": 1,
             "name": "tree trunk",
-            "supercategory": "tree-trunks"
+            "supercategory": "none"
         }
     ],
     "images": [
